@@ -389,11 +389,11 @@ q = args.join(' ')
             const senderNumber = sender.split('@')[0]
             const botNumber = conn.user.id.split(':')[0]
             const pushname = mek.pushName || 'Sin Nombre'
-	    const ownbot = '94743826406'
+	    const ownbot = '94775877546'
 	    const isownbot = ownbot?.includes(senderNumber)
-            const gojo = '94743826406'
+            const gojo = '94775877546'
             const isgojo = gojo?.includes(senderNumber)
-	    const developers = '94743826406'
+	    const developers = '94775877546'
             const isbot = botNumber.includes(senderNumber)
 	    const isdev = developers.includes(senderNumber) 	    
             let epaneda =  ''
@@ -482,10 +482,10 @@ const textmsg = await conn.sendMessage(from, { text: buttonMessage ,
     isForwarded: true,
     
 externalAdReply: { 
-title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
+title: '👨‍💻 VVIP-ASHEN-XMD 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94743826406" ,
+sourceUrl: "https://wa.me/94775877546" ,
 thumbnailUrl: 'https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -502,10 +502,10 @@ contextInfo: {
     isForwarded: true,
     
 externalAdReply: { 
-title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
+title: '👨‍💻 VVIP-ASHEN-XMD 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94743826406" ,
+sourceUrl: "https://wa.me/94775877546" ,
 thumbnailUrl: 'https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -574,10 +574,10 @@ const textmsg = await conn.sendMessage(from, { text: buttonMessage ,contextInfo:
     isForwarded: true,
     
 externalAdReply: { 
-title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
+title: '👨‍💻 VVIP-ASHEN-XMD 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94743826406" ,
+sourceUrl: "https://wa.me/94775877546" ,
 thumbnailUrl: 'https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -593,10 +593,10 @@ const imgmsg = await conn.sendMessage(jid, { image: msgData.image, caption: butt
     isForwarded: true,
     
 externalAdReply: { 
-title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
+title: '👨‍💻 VVIP-ASHEN-XMD👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94743826406" ,
+sourceUrl: "https://wa.me/94775877546" ,
 thumbnailUrl: 'https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -639,10 +639,10 @@ contextInfo: {
     isForwarded: true,
     
 externalAdReply: { 
-title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
+title: '👨‍💻 VVIP-ASHEN-XMD 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94743826406" ,
+sourceUrl: "https://wa.me/94775877546" ,
 thumbnailUrl: 'https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -683,10 +683,10 @@ contextInfo: {
     isForwarded: true,
     
 externalAdReply: { 
-title: '👨‍💻 GOJO - ＭＤ 👨‍💻',
+title: '👨‍💻 VVIP-ASHEN-XMD👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94743826406" ,
+sourceUrl: "https://wa.me/94775877546" ,
 thumbnailUrl: 'https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
